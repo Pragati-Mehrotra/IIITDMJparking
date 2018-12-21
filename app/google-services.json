@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "765512475087",
+    "firebase_url": "https://iiitdmjparking.firebaseio.com",
+    "project_id": "iiitdmjparking",
+    "storage_bucket": "iiitdmjparking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765512475087:android:0ce1f1eb2de8bd4a",
+        "android_client_info": {
+          "package_name": "com.example.toshiba.iiitdmjparking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765512475087-n1s5s4bup9gn7fa434ulq9ira5qni34u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.toshiba.iiitdmjparking",
+            "certificate_hash": "a6877e74e0ee4e13330aa03a3c9e1c9962bf5f3c"
+          }
+        },
+        {
+          "client_id": "765512475087-opga04rfmeh1j19udr0pg0t73u5vhcik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk3omZwRTjA93rQNriVMV5fKxAykNuyWc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765512475087-opga04rfmeh1j19udr0pg0t73u5vhcik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

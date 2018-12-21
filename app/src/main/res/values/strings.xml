@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IIITDMJparking</string>
+    <string name="parking_slots_list_of_available_to_total">PARKING SLOTS -LIST OF AVAILABLE TO TOTAL</string>
+    <string name="lhtc_1">LHTC 1</string>
+    <string name="lhtc_2">LHTC 2</string>
+    <string name="hall_1">HALL 1</string>
+    <string name="nr">NR</string>
+    <string name="collegelogo">collegelogo</string>
+</resources>
