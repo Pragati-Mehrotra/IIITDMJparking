@@ -31,11 +31,11 @@ cloud where it is stored in the database and updated periodically.
 
 ### Setup
 
-![alt text](https://github.com/saianurag2/IIITDMJparking/blob/master/image/setup.PNG)
+![alt text](https://github.com/saianurag2/IIITDMJparking/blob/master/image/setup.jpg)
 
 ### Screen
 
-![alt text](https://github.com/saianurag2/IIITDMJparking/blob/master/image/wel_screen.PNG)
+![alt text](https://github.com/saianurag2/IIITDMJparking/blob/master/image/wel-screen.PNG)
 
 
 ## Team members
